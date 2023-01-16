@@ -1,0 +1,48 @@
+.pp {
+  width: 80vw;
+  max-width: 300px;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+small {
+  margin: 5px 0 10px 0;
+}
+button {
+  border-radius: 4px;
+  font-family: Arial;
+  color: #000;
+  font-size: 15px;
+  padding: 7px 7px;
+  text-decoration: none;
+  width: fit-content;
+  max-width: 150px;
+  font-weight: bold;
+}
+
+.btn {
+  width: 80vw;
+  max-width: 300px;
+  display: flex;
+  justify-content: space-evenly;
+  border: none;
+}
+.eml {
+  border: none;
+}
+a {
+  text-decoration: none;
+}
+
+.lkd {
+  background-color: rgb(0, 162, 255);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  border: none;
+}
+
+.lkd:hover,
+.eml:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+* {
+  color: white;
+}
+
+span {
+  font-size: small;
+}
+
+.box {
+  margin-top: 15px;
+  text-align: justify;
+  width: 80vw;
+  max-width: 300px;
+  padding: 0 20px;
+}
